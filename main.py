@@ -102,7 +102,7 @@ if __name__ == '__main__':
 
         # Draw our main batch & FPS counter at the bottom left
         main_batch.draw()
-        fps_display.draw()
+        # fps_display.draw()
 
     # Initializing the window for writing
     init = initialize_window()
