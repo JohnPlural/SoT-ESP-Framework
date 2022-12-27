@@ -119,7 +119,7 @@ if __name__ == '__main__':
 
     # Adds an FPS counter at the bottom left corner of our pyglet window
     # Note: May not translate to actual FPS, but rather FPS of the program
-    fps_display = pyglet.window.FPSDisplay(window)
+    # fps_display = pyglet.window.FPSDisplay(window)
 
     # Our base player_count label in the top-right of our screen. Updated
     # in on_draw(). Use a default of "Initializing", which will update once the
